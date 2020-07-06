@@ -38,3 +38,5 @@
 21,East,77,47,West,0
 # Forena Ruins Entrance Corridor (76) - Forena Ruins Entrance (42)
 76,North,0,42,South,0
+# Power, Room 5, H1-1 (81) - Power, Room 6, H1-1 (78)
+81,0,0,78,0,23
