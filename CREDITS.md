@@ -13,3 +13,9 @@ https://www.pokecommunity.com/showthread.php?t=419874
 
 Infinite Animated Tiles by KleinStudio
 https://pokemonfangames.com/resource/unlimited-animated-tiles/
+
+HGSS Style Transitions Script by Jonas930
+https://reliccastle.com/resources/207/
+
+Footprint Script by KleinStudio
+https://pokemonfangames.com/resource/footprints/
